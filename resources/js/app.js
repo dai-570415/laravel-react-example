@@ -6,8 +6,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {
   BrowserRouter as Router,
-  Route,
-  Link
+  Route
 } from 'react-router-dom';
 import Index from './components/Index';
 import TodoAppIndex from './components/TodoApp/Index';
